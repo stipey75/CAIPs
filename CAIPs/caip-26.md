@@ -1,13 +1,11 @@
 ---
-caip: <to be assigned>
+caip: 26
 title: Extend math library of std cosmwasm above uint128 values
-author: <a list of the author's or authors' name(s) and/or username(s), or name(s) and email(s), e.g. (use with the parentheses or triangular brackets): FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
+author: Lucio Pinese (@stipey75)
 discussions-to: https://github.com/stipey75/CAIPs
 status: Draft
-type: <Standard | Meta | Informational>
-created: 2020/12/13
-requires (*optional): <CAIP number(s)>
-replaces (*optional): <CAIP number(s)>
+type: Standard
+created: 2020-12-13
 ---
 
 <!--You can leave these HTML comments in your merged EIP and delete the visible duplicate text guides, they will not appear and may be helpful to refer to if you edit it again. This is the suggested template for new EIPs. Note that an EIP number will be assigned by an editor. When opening a pull request to submit your EIP, please use an abbreviated title in the filename, `eip-draft_title_abbrev.md`. The title should be 44 characters or less.-->
